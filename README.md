@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src=".github/preview.jpg" width="100%">
+  <img alt="Calendário da Copa" src=".github/Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,11 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa do Mundo do Qatar de 2022.
+O Calendário da Copa é um projeto que mostra os jogos (com data e hora) da Copa do Mundo do Qatar de 2022.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/c3fhdfPeoTp0YAn8kxZfc5/Calendário-de-Jogos-(Community)-(Community)?node-id=172%3A179). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/c3fhdfPeoTp0YAn8kxZfc5/Calend%C3%A1rio-de-Jogos-(Community)-(Community)?node-id=172%3A179). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
