@@ -93,7 +93,7 @@ document.querySelector('#cards').innerHTML =
 
     +   // '+' para adicionar um card de jogos a seguir
 
-    createCard('29/11', 'terca', 
+    createCard('29/11', 'terça', 
     createMatch('ecuador', 'senegal', '07:00') 
     + createMatch('netherlands', 'qatar', '10:00') 
     + createMatch('iran', 'usa', '13:00') 
