@@ -5,10 +5,10 @@
 }
 
 :root {
-    --card-title-border-color: #746615;
-    --card-color-primary: #f7dd43;
+    --card-title-border-color: #F8FAFE;
+    --card-color-primary: #82251a;
     --card-bg-color: #1D1C19;
-    --bg: url(./Assets/bg-yellow.svg)
+    --bg: url(./Assets/bg-red.svg)
 }
 
 body.blue{
@@ -81,7 +81,7 @@ header{
     margin-inline: auto;
     margin-bottom: 53px;
 
-    color: #f7dd43;
+    color: #CE2846;
 }
 
 #card h2 span{
